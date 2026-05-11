@@ -24,3 +24,9 @@ Unruly does not mean careless. It means unwilling to accept stale defaults when 
 - [`sortessori`](https://github.com/unrulysystems/sortessori): future home for Sortessori game experiments under Unruly Systems
 
 Existing Sortessori and rn-playwright-driver development remains in the current working repositories until migration boundaries are explicit.
+
+## Project Docs
+
+- [Vision](https://github.com/unrulysystems/.github/blob/main/docs/vision.md)
+- [Roadmap](https://github.com/unrulysystems/.github/blob/main/docs/roadmap.md)
+- [Repository Map](https://github.com/unrulysystems/.github/blob/main/docs/repositories.md)
